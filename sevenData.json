@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "fname": "medo",
+        "lname": "mazin",
+        "age": "25",
+        "city": "menufia"
+    },
+    {
+        "id": 2,
+        "fname": "medo",
+        "lname": "mazin",
+        "age": "25",
+        "city": "menufia"
+    },
+    {
+        "id": 3,
+        "fname": "medo",
+        "lname": "mazin",
+        "age": "25",
+        "city": "menufia"
+    },
+    {
+        "id": 4,
+        "fname": "rezk",
+        "lname": "monhamed",
+        "age": "20",
+        "city": "mansora"
+    },
+    {
+        "id": 5,
+        "fname": "rezk",
+        "lname": "monhamed",
+        "age": "20",
+        "city": "mansora"
+    },
+    {
+        "id": 6,
+        "fname": "rezk",
+        "lname": "monhamed",
+        "age": "20",
+        "city": "mansora"
+    },
+    {
+        "id": 7,
+        "fname": "rezk",
+        "lname": "monhamed",
+        "age": "20",
+        "city": "mansora"
+    }
+]
